@@ -1,5 +1,5 @@
 # GEMATRIAC
-Gematriac is an exciting and versatile open-source gematria project GitHub, designed to explore the captivating world of numerology and word analysis using the C programming language. Rooted in the ancient practice of gematria, which assigns numerical values to letters, words, and phrases, this project seeks to unveil hidden connections and deeper meanings within texts.
+Gematriac is an exciting and versatile open-source gematria project, designed to explore the captivating world of numerology and word analysis using the C programming language. Rooted in the ancient practice of gematria, which assigns numerical values to letters, words, and phrases, this project seeks to unveil hidden connections and deeper meanings within texts.
 
 With GematriaC, users gain access to a powerful suite of gematria algorithms and tools that empower them to delve into the mystical significance of various texts, names, or phrases. The C programming language's efficiency and flexibility ensure fast and precise calculations, making it an ideal choice for exploring complex and intricate gematria systems.
 
