@@ -5,8 +5,14 @@ With GematriaC, users gain access to a powerful suite of gematria algorithms and
 
 ## Key Features:
 **Gematria Calculations:** Effortlessly compute gematria values for words and phrases based on different systems, including Hebrew, English, or any custom character-to-number mappings defined by the user.
-**Numerical Operations:** Perform basic arithmetic operations on gematria values, allowing users to conduct comparative analyses and reveal meaningful relationships between different words or phrases.
+
+**Numerical Operations:** Perform basic arithmetic operations on gematria values, allowing users to conduct comparative analyses and reveal meaningful relationships between different words or phrases. 
+
 **Extensible Architecture:** A modular and well-organized codebase facilitates easy expansion, enabling developers to add new gematria systems and functionalities to the project.
-**Hidden Connections:** Identify potential connections between words and phrases by comparing their gematria values, unlocking hidden patterns and symbolic relationships.
+
+**Hidden Connections:** Identify potential connections between words and phrases by comparing their gematria values, unlocking hidden patterns and symbolic relationships. 
+
 **Command-Line Interface:** A user-friendly command-line interface makes it simple for users to interact with the GematriaC program, facilitating seamless integration into various workflows.
+
 Whether you're a C enthusiast, a numerology aficionado, or an individual curious about the mystical aspects of language, GematriaC offers an accessible and efficient platform to embark on an enlightening journey. 
+
